@@ -1,2 +1,2 @@
 # wilson251
-Repo for psych 251 (fall 2021)
+This is my repo for psych 251 for fall quarter 251. Go trees :')
